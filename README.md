@@ -9,6 +9,7 @@ Changelog:
 ===========
 - Update ADSP driver
 - Update KGSL from Kernel 3.x
+- Backport ashmem from Kernel 3.0
 - Backport lowmemorykiller from Kernel 3.4
 - Backport UHID driver from Kernel 3.8
 - Fix YouTube [LQ/HQ]
