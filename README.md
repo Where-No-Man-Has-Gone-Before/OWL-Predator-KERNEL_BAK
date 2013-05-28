@@ -13,7 +13,7 @@ Changelog:
 - Backport lowmemorykiller from Kernel 3.4
 - Backport UHID driver from Kernel 3.8
 - Fix YouTube [LQ/HQ]
-- 
+
 marvel_defconfig
 ===========
 - Add support CIFS/NFS
