@@ -12,6 +12,7 @@ Changelog:
 - Backport ashmem from Kernel 3.0
 - Backport lowmemorykiller from Kernel 3.4
 - Backport UHID driver from Kernel 3.8
+- Fix Bluetooth tethering
 - Fix YouTube [LQ/HQ]
 
 marvel_defconfig
