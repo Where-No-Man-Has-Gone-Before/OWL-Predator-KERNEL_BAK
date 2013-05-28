@@ -13,8 +13,8 @@ Changelog:
 - Backport lowmemorykiller from Kernel 3.4
 - Backport UHID driver from Kernel 3.8
 - Fix YouTube [LQ/HQ]
-- Fix Bluetooth Tethering
-----------------------
+marvel_defconfig
+===========
 - Add support CIFS/NFS
 - Add zRam
 - Add LZO
